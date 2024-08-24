@@ -12,6 +12,17 @@ Recommmended to buy 2Tb versions of the SSDs over 1Tb, will last you longer and 
 
 Avoid Sandisk if possible [due to possible hardware failure](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw).
 
+### Summary
+
+| Brand | Size | Price |
+| --- | --- | --- |
+|SAMSUNG T7 | **2Tb** (Recommended) | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220613) - on sale: $239.99 - [Amazon](https://a.co/d/8r5usJl) - $253.98 |
+|SAMSUNG T7 | 1TB | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220612) - on sale $159.99 - [Amazon](https://a.co/d/f4p592K) - $169.98 |
+| Lexar SL600 | 1TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-sl600-1tb-portable-external-solid-state-drive-lsl600x001t-rnbng/17502474) - $129.99 |
+| Crucial X9 Pro | 1TB | [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32 |
+| Samsung T5 EVO | 4TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/samsung-t5-evo-4tb-usb-3-2-external-solid-state-drive-mu-ph4t0s-am-black-english/17479782) - $469.99 |
+| SAMSUNG T9 | 4TB | [Amazon](https://a.co/d/5k8Xmw9) - $537.55 |
+
 ### Recommended
 
 SAMSUNG T7 `2TB`, Portable SSD, Blue, up to 1050MB/s, USB 3.2 Gen2, Gaming, Students & Professionals, External Solid State Drive (MU-PC2T0H/AM), Blue [Canada Version]
@@ -46,7 +57,3 @@ Samsung T5 EVO `4TB` USB 3.2 External Solid State Drive (MU-PH4T0S/AM) - Black -
 SAMSUNG T9 `4TB` Portable SSD, USB 3.2 Gen. 2x2, Black, Upto 2000MB/s Read Speed - MU-PG4T0B/AM [Canada Version]
 
 - [Amazon](https://a.co/d/5k8Xmw9) - $537.55
-
-SanDisk Professional `4TB` PRO-Blade Transport - Portable and Modular NVMe SSD, Up to 2000MB/s, USB-C, USB 3.2 gen 2x2, Solid State Drive - SDPM2NB-004T-GBAND, Dark Grey
-
-- [Amazon](https://a.co/d/2JSFvO2) - $532.68
