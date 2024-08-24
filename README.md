@@ -37,11 +37,11 @@ SAMSUNG T7 `1TB`, Portable SSD, Blue, up to 1050MB/s, USB 3.2 Gen2, Gaming, Stud
 
 #### Cheaper and still reputable brands, but we have no experience with them
 
-Lexar SL600 1TB Portable External Solid State Drive (LSL600X001T-RNBNG)
+Lexar SL600 `1TB` Portable External Solid State Drive (LSL600X001T-RNBNG)
 
 - [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-sl600-1tb-portable-external-solid-state-drive-lsl600x001t-rnbng/17502474) - $129.99
 
-Crucial X9 Pro 1TB Portable SSD - Up to 1050MB/s Read and Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT1000X9PROSSD902
+Crucial X9 Pro `1TB` Portable SSD - Up to 1050MB/s Read and Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT1000X9PROSSD902
 
 - [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32
 
