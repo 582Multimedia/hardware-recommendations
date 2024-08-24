@@ -6,6 +6,8 @@ Hardware recommendations like SSDs etc
 
 <!-- [Canada Computers list](https://www.canadacomputers.com/search/results_details.php?language=en&keywords=samsung+ssd+&cpath=179) -->
 
+<!-- https://www.canadacomputers.com/search/results_details.php?language=en&keywords=crucial+portable+ssd -->
+
 ## SSDs
 
 Recommmended to buy 2Tb versions of the SSDs over 1Tb, will last you longer and it's usually cheaper.
