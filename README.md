@@ -63,5 +63,5 @@ SAMSUNG T9 `4TB` Portable SSD, USB 3.2 Gen. 2x2, Black, Upto 2000MB/s Read Speed
 - [Amazon](https://a.co/d/5k8Xmw9) - $537.55
 
 
-nve m.2 enclosure
+m.2 NVMe enclosure
 https://ca.ugreen.com/products/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=44061578035488
