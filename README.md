@@ -61,3 +61,7 @@ Samsung T5 EVO `4TB` USB 3.2 External Solid State Drive (MU-PH4T0S/AM) - Black -
 SAMSUNG T9 `4TB` Portable SSD, USB 3.2 Gen. 2x2, Black, Upto 2000MB/s Read Speed - MU-PG4T0B/AM [Canada Version]
 
 - [Amazon](https://a.co/d/5k8Xmw9) - $537.55
+
+
+nve m.2 enclosure
+https://ca.ugreen.com/products/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=44061578035488
