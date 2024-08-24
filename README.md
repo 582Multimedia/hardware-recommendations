@@ -18,12 +18,14 @@ Avoid Sandisk if possible [due to possible hardware failure](https://www.tomshar
 
 | Brand | Size | Price |
 | --- | --- | --- |
-|SAMSUNG T7 | **2Tb** (Recommended) | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220613) - on sale: $239.99 - [Amazon](https://a.co/d/8r5usJl) - $253.98 |
-|SAMSUNG T7 | 1TB | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220612) - on sale $159.99 - [Amazon](https://a.co/d/f4p592K) - $169.98 |
+|SAMSUNG T7 (Most reliable) | **2Tb** * | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220613) - on sale: $239.99 - [Amazon](https://a.co/d/8r5usJl) - $253.98 |
+|SAMSUNG T7 (Most reliable) | 1TB * | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220612) - on sale $159.99 - [Amazon](https://a.co/d/f4p592K) - $169.98 |
 | Lexar SL600 | 1TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-sl600-1tb-portable-external-solid-state-drive-lsl600x001t-rnbng/17502474) - $129.99 |
 | Crucial X9 Pro | 1TB | [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32 |
 | Samsung T5 EVO | 4TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/samsung-t5-evo-4tb-usb-3-2-external-solid-state-drive-mu-ph4t0s-am-black-english/17479782) - $469.99 |
 | SAMSUNG T9 | 4TB | [Amazon](https://a.co/d/5k8Xmw9) - $537.55 |
+
+(* Recommended)
 
 ### Recommended
 
