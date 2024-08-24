@@ -49,7 +49,6 @@ Crucial X9 Pro `1TB` Portable SSD - Up to 1050MB/s Read and Write - Water and du
 
 - [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32
 
-
 ### Optional Bigger storage
 
 Only consider these if you plan to need a lot of storage
@@ -62,6 +61,10 @@ SAMSUNG T9 `4TB` Portable SSD, USB 3.2 Gen. 2x2, Black, Upto 2000MB/s Read Speed
 
 - [Amazon](https://a.co/d/5k8Xmw9) - $537.55
 
+## DIY M.2 NVMe enclosures
 
-m.2 NVMe enclosure
-https://ca.ugreen.com/products/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=44061578035488
+NVMe enclosures are DIY (Do It Yourself) kits for inserting internal SSDs, usually a bit cheaper than external branded SSDs.
+
+Ugreen 10Gbps M.2 NVMe SATA SSD Hard Drive Enclosure With 2 Cables
+
+- [ugreen](https://ca.ugreen.com/products/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=44061578035488)
