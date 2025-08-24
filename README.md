@@ -2,7 +2,7 @@
 
 Hardware recommendations like SSDs etc
 
-***Remember always try to price-match if you see something on amazon with free shipping by amazong and you want to buy local, cause do not feed the rich***
+***Remember always try to price-match if you see something on Amazon with free shipping and you want to buy local. Cause do not feed the rich***
 
 <!-- [Canada Computers list](https://www.canadacomputers.com/search/results_details.php?language=en&keywords=samsung+ssd+&cpath=179) -->
 
@@ -40,4 +40,8 @@ Samsung T7 `2Tb` (Shield or regular) will be very good. Get the `1Tb` version if
 ## DIY M.2 NVMe enclosures
 
 NVMe enclosures are DIY (Do It Yourself) kits for inserting internal SSDs, usually a bit cheaper than external branded SSDs.
+You will need 2 things:
+- an [ enclosure ](https://www.acasis.com/en-ca/collections/usb4-0-thunderbolt-3-ssd-enclosure)
+- an [NVME M.2 SSD](https://www.canadacomputers.com/en/search?id_category=1290&s=nvme+m.2&a=0&b=0&order=product.price.desc)
+Plus it has the advantage of being able to reuse them in other devices, like a dual-bay enclosure for 16TB of storage.
 
