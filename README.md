@@ -18,53 +18,26 @@ Avoid Sandisk if possible [due to possible hardware failure](https://www.tomshar
 
 | Brand | Size | Price |
 | --- | --- | --- |
-|SAMSUNG T7 (Most reliable) | **2Tb** * | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220613) - on sale: $239.99 - [Amazon](https://a.co/d/8r5usJl) - $253.98 |
-|SAMSUNG T7 (Most reliable) | 1TB * | [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220612) - on sale $159.99 - [Amazon](https://a.co/d/f4p592K) - $169.98 |
-| Lexar SL600 | 1TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-sl600-1tb-portable-external-solid-state-drive-lsl600x001t-rnbng/17502474) - $129.99 |
-| Crucial X9 Pro | 1TB | [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32 |
-| Samsung T5 EVO | 4TB | [Bestbuy](https://www.bestbuy.ca/en-ca/product/samsung-t5-evo-4tb-usb-3-2-external-solid-state-drive-mu-ph4t0s-am-black-english/17479782) - $469.99 |
-| SAMSUNG T9 | 4TB | [Amazon](https://a.co/d/5k8Xmw9) - $537.55 |
+|Samsung T7 Shield | **2Tb** * | [Canada Computers](https://www.canadacomputers.com/en/external-ssds/220610/samsung-t7-shield-2tb-portable-ssd-black-mu-pe2t0s-am.html) - on sale: $209.99 - [Amazon](https://www.amazon.ca/Portable-Resistant-Photographers-MU-PE2T0S-AM/dp/B09VLHR4JC) - $199.97 |
+|Samsung T7 | **2Tb** * | [Canada Computers](https://www.canadacomputers.com/en/external-ssds/173996/samsung-t7-2tb-usb3-2-blue-external-solid-state-drive-mu-pc2t0h-am.html) - on sale: $219.99 - [Amazon](https://a.co/d/8r5usJl) - $199.97 |
+|Samsung T7 Shield | 1Tb * | [Canada Computers](https://www.canadacomputers.com/en/external-ssds/220606/samsung-t7-shield-1tb-portable-ssd-black-mu-pe1t0s-am.html) - on sale $129.99 - [Amazon](https://www.amazon.ca/Portable-Photographers-Creators-MU-PE1T0S-AM/dp/B09VLK9W3S) - $129.97 |
+|Samsung T7 | 1Tb * | [Canada Computers](https://www.canadacomputers.com/en/external-ssds/173988/samsung-t7-1tb-usb3-2-blue-external-solid-state-drive-mu-pc1t0h-am.html) - on sale $129.99 - [Amazon](https://a.co/d/f4p592K) - $129.97 |
+|SanDisk Extreme | 2Tb | [Canada Computers](https://www.canadacomputers.com/en/external-ssds/200360/sandisk-extreme-e61-portable-ssd-v2-2tb-sdssde61-2t00-g25.html) - $199.99 - [Amazon](https://www.amazon.ca/SanDisk-2TB-Extreme-Portable-SDSSDE61-2T00-G25/dp/B08HN37XC1/) - 199.99 |
+| Crucial X9  | 2Tb | [Amazon](https://www.amazon.ca/Crucial-2TB-Portable-SSD-CT2000X9SSD902/dp/B0CGW18S6Y) - $213.99 |
+| Samsung T7 Shield | 4Tb | [Canada Computers](https://www.bestbuy.ca/en-ca/product/samsung-t5-evo-4tb-usb-3-2-external-solid-state-drive-mu-ph4t0s-am-black-english/17479782) - $399.99 |
 
 (* Recommended)
 
 ### Recommended
 
-SAMSUNG T7 `2TB`, Portable SSD, Blue, up to 1050MB/s, USB 3.2 Gen2, Gaming, Students & Professionals, External Solid State Drive (MU-PC2T0H/AM), Blue [Canada Version]
+Samsung T7 `2Tb` (Shield or regular) will be very good. Get the `1Tb` version if the 2Tb is not available, or if your budget is really limited.
 
-- [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220613) - on sale: $239.99
-- [Amazon](https://a.co/d/8r5usJl) - $253.98
+#### Other SSDs
 
-SAMSUNG T7 `1TB`, Portable SSD, Blue, up to 1050MB/s, USB 3.2 Gen2, Gaming, Students & Professionals, External Solid State Drive (MU-PC1T0H/AM), Blue [Canada Version]
-
-- [Canada Computers](https://www.canadacomputers.com/product_info.php?cPath=179_5357&item_id=220612) - on sale $159.99
-- [Amazon](https://a.co/d/f4p592K) - $169.98
-
-#### Cheaper and still reputable brands, but we have no experience with them
-
-Lexar SL600 `1TB` Portable External Solid State Drive (LSL600X001T-RNBNG)
-
-- [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-sl600-1tb-portable-external-solid-state-drive-lsl600x001t-rnbng/17502474) - $129.99
-
-Crucial X9 Pro `1TB` Portable SSD - Up to 1050MB/s Read and Write - Water and dust Resistant, PC and Mac, with Mylio Photos+ Offer - USB 3.2 External Solid State Drive - CT1000X9PROSSD902
-
-- [Amazon](https://www.amazon.ca/Crucial-Pro-1TB-Portable-CT1000X9PROSSD902/dp/B0C9WKGXHD/) - $135.32
-
-### Optional Bigger storage
-
-Only consider these if you plan to need a lot of storage
-
-Samsung T5 EVO `4TB` USB 3.2 External Solid State Drive (MU-PH4T0S/AM) - Black - English
-
-- [Bestbuy](https://www.bestbuy.ca/en-ca/product/samsung-t5-evo-4tb-usb-3-2-external-solid-state-drive-mu-ph4t0s-am-black-english/17479782) - $469.99
-
-SAMSUNG T9 `4TB` Portable SSD, USB 3.2 Gen. 2x2, Black, Upto 2000MB/s Read Speed - MU-PG4T0B/AM [Canada Version]
-
-- [Amazon](https://a.co/d/5k8Xmw9) - $537.55
+- SanDisk SSDs had issues in the past and so they are not as recommended.
+- Only consider `4Tb` options at the end if you plan to store a lot of data like video.
 
 ## DIY M.2 NVMe enclosures
 
 NVMe enclosures are DIY (Do It Yourself) kits for inserting internal SSDs, usually a bit cheaper than external branded SSDs.
 
-Ugreen 10Gbps M.2 NVMe SATA SSD Hard Drive Enclosure With 2 Cables
-
-- [ugreen](https://ca.ugreen.com/products/ugreen-m-2-nvme-sata-ssd-enclosure-adapter?variant=44061578035488)
