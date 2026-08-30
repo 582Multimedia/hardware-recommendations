@@ -24,6 +24,8 @@ Recommmended to buy 2Tb versions of the SSDs over 1Tb, will last you longer and 
 
 The Samsung drives are the most stable and consistently fast after longer periods, the others might slow down but you're paying the price.
 
+These are the best prices I found as of Aug 30, 2026, if you find a reliable retailer that is cheaper, go right ahead (just remember what I said about clicking on best buy only on bestbuy's site otherwise you might get scammed by third party resellers).
+
 <!-- Avoid Sandisk if possible [due to possible hardware failure](https://www.tomshardware.com/news/sandisk-extreme-pro-failures-are-due-to-design-flaw).
 
 ### Summary
