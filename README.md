@@ -17,7 +17,7 @@ Recommmended to buy 2Tb versions of the SSDs over 1Tb, will last you longer and 
 | WD My Passport 2TB External Solid State Drive | **2Tb** | [Bestbuy](https://www.bestbuy.ca/en-ca/product/wd-my-passport-2tb-external-solid-state-drive-wdbagf0020bgy-wesn-grey/14916471) - on sale: $399.99 |
 | PNY Pro Elite V2 1TB | **1Tb** | [Bestbuy](https://www.bestbuy.ca/en-ca/product/pny-pro-elite-v2-1tb-usb-3-2-external-solid-state-drive-psd0cs2160-1tb-rb-black/19839299) - on sale: $199.99 |
 | WD My Passport 1TB External Solid State Drive | 1Tb | [Bestbuy](https://www.bestbuy.ca/en-ca/product/wd-my-passport-1tb-external-solid-state-drive-wdbagf0010bgy-wesn-grey/14916474) - on sale: $239.99 |
-| Lexar 1TB USB 3.2 External Solid State Drive | 1Tb | [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-1tb-usb-3-2-external-solid-state-drive-lsl300001t-rnbng/19276340) $254.99 |
+| Lexar 1TB USB 3.2 External Solid State Drive | 1Tb | [Bestbuy](https://www.bestbuy.ca/en-ca/product/lexar-1tb-usb-3-2-external-solid-state-drive-lsl300001t-rnbng/19276340) - $254.99 |
 | Samsung T7 Shield 1TB USB 3.2 External Solid State Drive | 1Tb | [Bestbuy](https://www.bestbuy.ca/en-ca/product/samsung-t7-shield-1tb-usb-3-2-external-solid-state-drive-mu-pe1t0s-am-black/16000950) - on sale: $314.99 |
 
 ### Notes
